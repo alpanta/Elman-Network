@@ -4,4 +4,4 @@ Some description.
 
 ## Subheader
 
-...
+Some description.
